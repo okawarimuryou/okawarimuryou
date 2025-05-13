@@ -1,6 +1,5 @@
 ## Hi there 👋
 ## おはようございます。
-##　おかわり無料が俺の生きがい
 
 <!--
 **okawarimuryou/okawarimuryou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
